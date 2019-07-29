@@ -1,2 +1,0 @@
-# paramarta
-Paramarta Website HTML

@@ -1,0 +1,15 @@
+.header-top{
+  background: #336799;
+  font-size: 13px;
+  padding: 8px 0px;
+}
+
+.header-top .header-top-content .header-top-info ul li .fa {
+  color: #15415E;
+}
+.header-bottom{
+  margin: -20px;
+}
+.logo{
+  width: 200px;
+}
